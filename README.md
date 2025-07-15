@@ -2,7 +2,8 @@
 
 A modern take on the classic Snake game with enhanced graphics, physics, and gameplay features.
 
-![Q_SNAKE Game](https://github.com/yourusername/Q_SNAKE/raw/main/screenshot.png)
+![Q_SNAKE Game](https://github.com/Egregius/AmazonBuildersChallenge_RetroGame
+/pictures/screenshot.png)
 
 ## Features
 
